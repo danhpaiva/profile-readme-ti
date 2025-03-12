@@ -1,15 +1,15 @@
 # Profile
 
-### Tiago Ribeiro Pereira
+### Daniel Paiva
 
 ~~~
-Python - Java - HTML - CSS - JS - REACT - DJANGO
-~~~
-
-~~~
-https://github.com/HELLOMIX
+C# ~ Go
 ~~~
 
 ~~~
-www.linkedin.com/in/tiago-ribeiro-pereira-ab021b326
+[Daniel Paiva - GitHub](https://github.com/danhpaiva)
+~~~
+
+~~~
+[Daniel Paiva - Linkedin](https://www.linkedin.com/in/danhpaiva/)
 ~~~
