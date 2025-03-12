@@ -3,7 +3,7 @@
 ### Daniel Paiva
 
 ~~~
-C# ~ Go
+C# ~ Go ~ JS
 ~~~
 
 ~~~
